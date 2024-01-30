@@ -1,0 +1,76 @@
+{
+  "name": "moronis-quest",
+  "version": "1.0.0",
+  "date": "2024-01-29",
+  "created": "2024-01-29",
+  "copyright": "2023",
+  "description": "Moroni's quest is a site giving information about the Moroni's Quest event for the Goodyear AZ Stake.",
+  "type": "module",
+  "homepage": ".",
+  "author": "Vern Wolfley",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Vern Wolfley",
+      "email": "vern.wolfley@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AZMAG/mag-vite-react-template/"
+  },
+  "bugs": {
+    "url": "https://github.com/AZMAG/mag-vite-react-template/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run replace && vite build",
+    "preview": "vite preview",
+    "replace": "node replaceScripts"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ga4": "^2.1.0",
+    "react-router-dom": "^6.21.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.17",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "mag-prettier-config": "^1.1.1",
+    "postcss": "^8.4.33",
+    "postcss-nesting": "^12.0.2",
+    "prettier": "^3.2.4",
+    "replace-in-file": "^7.1.0",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.12"
+  },
+  "prettier": "mag-prettier-config",
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest",
+      "prettier"
+    ],
+    "env": {
+      "browser": true,
+      "node": true,
+      "es6": true
+    }
+  },
+  "browserslist": {
+    "production": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "license": "MIT"
+}

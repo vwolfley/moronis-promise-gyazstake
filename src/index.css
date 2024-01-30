@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* color palette for webpage */
+  --primary-color: #1e3a8a;  /* blue-900 */
+  --secondary-color: #164e63;  /* Cyan-900 */
+  --accent1-color: #facc15;  /* Yellow-400 */
+  --accent2-color: #d6d3d1;  /* Stone-300 */
+
+
+  --text-main-color: #172554;  /* blue-950 */
+  --text-secondary-color: #eff6ff;  /* blue-50 */
+
+  /* font styles for webpage */
+  --heading-font: "Merriweather", serif;
+  --paragraph-font: "Inter", sans-serif;
+
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+html {
+  font-family: var(--paragraph-font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--heading-font);
+}
