@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom"
-import Header from "./components/Layout/header/Header1"
+import Header from "./components/Layout/header/Header"
 import Home from "./components/Layout/pages/Home"
 import Checklist from "./components/Layout/pages/Checklist"
 import Calendar from "./components/Layout/pages/Calendar"
@@ -9,6 +9,7 @@ import ReadingChallenge from "./components/Layout/pages/ReadingChallenge"
 import Clothing from "./components/Layout/pages/Clothing"
 import ImportantInfo from "./components/Layout/pages/ImportantInfo"
 import FAQ from "./components/Layout/pages/Faqs"
+import Footer from "./components/Layout/footer/Footer"
 
 function App() {
   return (
@@ -24,8 +25,8 @@ function App() {
           <Route exact path="/clothing" element={<Clothing />} />
           <Route exact path="/important-info" element={<ImportantInfo />} />
           <Route exact path="/faqs" element={<FAQ />} />
-          
         </Routes>
+        <Footer />
       </div>
     </BrowserRouter>
   )
