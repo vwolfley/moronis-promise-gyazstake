@@ -55,7 +55,7 @@ degit https://github.com/AZMAG/mag-vite-react-template/[my-new-project]
 
 - #### Updated | 2023-10-5
 
-- #### Created | 2024-01-29
+- #### Created | 2024-01-30
 
 Releases will be numbered with the following format: **`<major>.<minor>.<patch>`**
 
@@ -109,7 +109,7 @@ A list of technologies used within the project:
 
 ## :warning: Licensing
 
-Copyright 2023 Maricopa Association of Governments (MAG)
+Copyright 2024 Maricopa Association of Governments (MAG)
 
 This project is licensed under the MIT license.
 

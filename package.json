@@ -1,10 +1,10 @@
 {
-  "name": "moronis-quest",
+  "name": "moronis-promise",
   "version": "1.0.0",
-  "date": "2024-01-29",
+  "date": "2024-01-30",
   "created": "2024-01-29",
-  "copyright": "2023",
-  "description": "Moroni's quest is a site giving information about the Moroni's Quest event for the Goodyear AZ Stake.",
+  "copyright": "2024",
+  "description": "Moroni's promise is a site giving information about the Moroni's Promise event for the Goodyear AZ Stake.",
   "type": "module",
   "homepage": ".",
   "author": "Vern Wolfley",
@@ -17,10 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AZMAG/mag-vite-react-template/"
-  },
-  "bugs": {
-    "url": "https://github.com/AZMAG/mag-vite-react-template/issues"
+    "url": ""
   },
   "scripts": {
     "dev": "vite",
