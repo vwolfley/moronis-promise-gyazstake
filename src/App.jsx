@@ -14,7 +14,7 @@ import Footer from "./components/Layout/footer/Footer"
 function App() {
   return (
     <BrowserRouter>
-      <div className="flex flex-col h-screen w-screen">
+      <div className="flex h-screen w-screen flex-col overflow-x-hidden scroll-smooth">
         <Header />
         <Routes>
           <Route exact path="/" element={<Home />} />

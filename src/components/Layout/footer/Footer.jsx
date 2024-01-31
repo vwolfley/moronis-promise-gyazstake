@@ -8,11 +8,11 @@ export default function App() {
   return (
     <footer className="bg-cyan-900 text-center lg:text-left">
       <div className="container p-6 text-cyan-50">
-        <div className="grid gap-4 lg:grid-cols-2">
-          <div className="mb-6 md:mb-0">
+        <div className="grid gap-4 lg:grid-cols-3">
+          <section className="mb-6 md:mb-0 flex flex-col content-center">
             <h5 className="mb-2 font-medium uppercase">Goodyear Arizona Stake</h5>
 
-            <address className="mb-4">
+            <address className="">
               425 South Estrella Parkway
               <br />
               Goodyear, Arizona 85338
@@ -23,22 +23,27 @@ export default function App() {
                 Goodyear Stake
               </a>
             </address>
-          </div>
+          </section>
 
-          <div className="flex mb-6 md:mb-0 items-center justify-end gap-x-4">
+          <section className="mb-6 md:mb-0 flex justify-center flex-col items-center">
+            <h5 className="mb-2 font-medium text-lg uppercase">You're Awesome</h5>
+            <h3 className="mb-2 font-bold text-3xl">See you soon!</h3>
+          </section>
+
+          <section className="flex mb-6 md:mb-0 justify-center lg:justify-end gap-x-2 items-center">
             <a href="https://www.facebook.com/ChurchofJesusChrist/" role="button">
-              <img src={Facebook} alt="Facebook Logo" width="25" height="25" />
+              <img src={Facebook} alt="Facebook Logo" width="25" height="auto" />
             </a>
             <a href="https://twitter.com/Ch_JesusChrist" role="button">
-              <img src={X} alt="X or Twitter Logo" width="25" height="25" />
+              <img src={X} alt="X or Twitter Logo" width="25" height="auto" />
             </a>
             <a href="https://www.instagram.com/churchofjesuschrist/" role="button">
-              <img src={Instagram} alt="Instagram Logo" width="25" height="25" />
+              <img src={Instagram} alt="Instagram Logo" width="25" height="auto" />
             </a>
             <a href="https://www.youtube.com/churchofjesuschrist" role="button">
-              <img src={YouTube} alt="Youtube Logo" width="25" height="25" />
+              <img src={YouTube} alt="Youtube Logo" width="25" height="auto" />
             </a>
-          </div>
+          </section>
         </div>
       </div>
 
