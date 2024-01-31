@@ -19,7 +19,7 @@ function InfoSection() {
             </h1>
             <p className="mx-auto text-base leading-relaxed">
               The whole family can participate in the Book of Mormon Reading Challenge leading up to
-              Moroni’s Quest Youth Event June 5-8, 2024.
+              Moroni’s Promise Youth Event June 5-8, 2024.
             </p>
             <div className="mt-4">
               <a
@@ -41,7 +41,7 @@ function InfoSection() {
               Youth Event Location
             </h1>
             <p className="mx-auto text-base leading-relaxed">
-              The 4-day Moroni’s Quest Youth Event will be held in Arizona the National Forest.
+              The 4-day Moroni’s Promise Youth Event will be held in Arizona the National Forest.
             </p>
             <div className="mt-4">
               <a

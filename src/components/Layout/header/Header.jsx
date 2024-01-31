@@ -15,8 +15,8 @@ export default function Header() {
     <header className="sticky top-0 z-10 flex h-24 bg-blue-900 text-blue-50">
       <section className="flex items-center p-6 flex-1 justify-between">
         <div className="flex flex-row items-center gap-1 flex-shrink-0">
-          <img className="h-auto w-8" src={MoroniLogo} alt="Moroni's Quest Logo" />
-          <h1 className="font-semibold text-3xl lg:text-4xl tracking-tight">Moroni's Quest</h1>
+          <img className="h-auto w-8" src={MoroniLogo} alt="Moroni Logo" />
+          <h1 className="font-semibold text-3xl lg:text-4xl tracking-tight">Moroni's Promise</h1>
         </div>
         <div className="flex">
           <button
