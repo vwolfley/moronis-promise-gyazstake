@@ -3,10 +3,11 @@ import Facebook from "../../../images/social/facebook-logo.png"
 import X from "../../../images/social/x-logo-white.png"
 import Instagram from "../../../images/social/instagram-logo-white.png"
 import YouTube from "../../../images/social/youtube-logo-red.png"
+import DocConfig from "../../../config/DocConfig"
 
 export default function App() {
   return (
-    <footer className="bg-cyan-900 text-center lg:text-left">
+    <footer className="bg-cyan-900 text-center lg:text-left pt-10 px-8">
       <div className="container p-6 text-cyan-50">
         <div className="grid gap-4 lg:grid-cols-3">
           <section className="mb-6 md:mb-0 flex flex-col content-center">
@@ -59,6 +60,10 @@ export default function App() {
           </a>
         </p>
         <p>Goodyear Arizona Stake © 2024 Copyright</p>
+        <ul className="flex list-none justify-center divide-x md:order-2">
+          <li className="px-2">{DocConfig.version}</li>
+          <li className="px-2">{DocConfig.date}</li>
+        </ul>
       </div>
     </footer>
   )
