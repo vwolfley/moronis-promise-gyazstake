@@ -1,5 +1,5 @@
 import React from "react"
-import PresNelson from "../../images/pres-nelson.png"
+import ElderScott from "../../images/elder-scott.jpg"
 
 function ScottQuote() {
   return (
@@ -25,7 +25,7 @@ function ScottQuote() {
         <div class="flex flex-wrap justify-center">
           <div className="px-4">
             <img
-              src={PresNelson}
+              src={ElderScott}
               alt="President Ezra Taft Benson"
               className="shadow-lg rounded max-w-full h-auto align-middle border-none w-20"
             />

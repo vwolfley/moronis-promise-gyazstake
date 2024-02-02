@@ -1,10 +1,22 @@
 export default function NavLinks() {
     const navLinks = [
       {
-        id: "home",
-        name: "Home",
+        id: "about",
+        name: "About",
         link: "/",
         internal: true,
+      },
+      {
+        id: "reading-challenge",
+        name: "Reading Challenge",
+        link: "/reading-challenge",
+        internal: true,
+      },
+      {
+        id: "registration",
+        name: "Registration",
+        link: "https://docs.google.com/forms/d/e/1FAIpQLSdp57k5kOQZvyPQ8FotqHsMnqYrycxbGlnLOKliEPjzJUs48w/viewform",
+        internal: false,
       },
       {
         id: "checklist",
@@ -16,18 +28,6 @@ export default function NavLinks() {
         id: "calendar",
         name: "Calendar",
         link: "/calendar",
-        internal: true,
-      },
-      {
-        id: "location",
-        name: "Location",
-        link: "/location",
-        internal: true,
-      },
-      {
-        id: "reading-challenge",
-        name: "Reading Challenge",
-        link: "/reading-challenge",
         internal: true,
       },
       {

@@ -23,11 +23,10 @@ function InfoSection() {
             </p>
             <div className="mt-4">
               <a
-                href="#"
-                className="inline-flex items-center mt-4 font-semibold text-blue-600 lg:mb-0 hover:text-neutral-600"
+                href="/reading-challenge"
+                className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600"
                 title="read more">
-                {" "}
-                Read More »{" "}
+                Read More »
               </a>
             </div>
           </div>
@@ -46,10 +45,9 @@ function InfoSection() {
             <div className="mt-4">
               <a
                 href="#"
-                className="inline-flex items-center mt-4 font-semibold text-blue-600 lg:mb-0 hover:text-neutral-600"
+                className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600"
                 title="read more">
-                {" "}
-                Read More »{" "}
+                Read More »
               </a>
             </div>
           </div>
@@ -68,7 +66,7 @@ function InfoSection() {
             <div className="mt-4">
               <a
                 href="#"
-                className="inline-flex items-center mt-4 font-semibold text-blue-600 lg:mb-0 hover:text-neutral-600"
+                className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600"
                 title="read more">
                 {" "}
                 Read More »{" "}
