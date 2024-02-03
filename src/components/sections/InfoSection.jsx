@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "react-router-dom"
 import BofMIcon from "../../images/icon-BofM.png"
 import LocationIcon from "../../images/icon-map.png"
 import FormsIcon from "../../images/icon-forms.png"
@@ -22,12 +23,9 @@ function InfoSection() {
               Moroni’s Promise Youth Event June 5-8, 2024.
             </p>
             <div className="mt-4">
-              <a
-                href="/reading-challenge"
-                className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600"
-                title="read more">
-                Read More »
-              </a>
+              <Link to="/reading-challenge" relative="path" className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600">
+              Read More »
+              </Link>
             </div>
           </div>
           <div className="p-6">
