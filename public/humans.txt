@@ -5,22 +5,21 @@ humanstxt.org/
 # TEAM
     	Name:  Vern Wolfley
     	Role: GIS Engineer III
-    	Contact:
     	Twitter: @vernwolfley
     	From: Litchfield Park, AZ
 
 # THANKS
-
+	Brother Cory Webster
 
 # TECHNOLOGY COLOPHON
 
     Standards: JavaScript, HTML5, CSS3
-    Components: React, Vite, ArcGIS
+    Components: React, Vite
 
 # SITE
 
-    Site Name:
-    Site URL:
+    Site Name: Moroni's Promise
+    Site URL: https://moronispromise.gyazs.org/
     Version: 1.0.2
 	Last updated: 2023-10-5
     Creation date: 2022-08-05

@@ -1,7 +1,7 @@
 {
-  "short_name": "",
-  "name": "",
-  "description": "",
+  "short_name": "moronis-promise",
+  "name": "Moroni's Promise",
+  "description": "Moroni's promise is a site giving information about the Moroni's Promise event for the Goodyear AZ Stake.",
   "start_url": ".",
   "lang": "en-US",
   "dir": "auto",
