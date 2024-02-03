@@ -41,12 +41,9 @@ function InfoSection() {
               The 4-day Moroni’s Promise Youth Event will be held in Arizona the National Forest.
             </p>
             <div className="mt-4">
-              <a
-                href="#"
-                className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600"
-                title="read more">
-                Read More »
-              </a>
+            <Link to="#" relative="path" className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600">
+              Read More »
+              </Link>
             </div>
           </div>
           <div className="p-6">
@@ -62,13 +59,9 @@ function InfoSection() {
               Download all the latest versions of the forms and information to stay on track.
             </p>
             <div className="mt-4">
-              <a
-                href="#"
-                className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600"
-                title="read more">
-                {" "}
-                Read More »{" "}
-              </a>
+            <Link to="/important-info" relative="path" className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600">
+              Read More »
+              </Link>
             </div>
           </div>
         </div>
