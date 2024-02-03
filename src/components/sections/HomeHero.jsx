@@ -14,7 +14,7 @@ function HomeHero() {
           Relive adventures from the Book of Mormon and forge lasting friendships through exciting
           tribe activities, immersive re-enactments, and inspired self-discovery.
         </p>
-        <button class="bg-cyan-900 text-white text-lg font-bold py-4 px-8 border border-cyan-900 rounded shadow">
+        <button className="bg-cyan-900 text-white text-lg font-bold py-4 px-8 border border-cyan-900 rounded shadow">
           June 5-8, 2024
         </button>
       </div>

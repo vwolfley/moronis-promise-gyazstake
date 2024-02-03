@@ -22,7 +22,7 @@ function ScottQuote() {
           </h2>
           <span className="text-gray-600 text-sm mb-1">The Power of Scripture</span>
         </div>
-        <div class="flex flex-wrap justify-center">
+        <div className="flex flex-wrap justify-center">
           <div className="px-4">
             <img
               src={ElderScott}

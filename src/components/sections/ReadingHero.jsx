@@ -14,8 +14,8 @@ function ReadingHero() {
         <p className="mb-8 text-lg font-normal text-blue-50 lg:text-xl sm:px-16 lg:px-48">
         Join us for the Book of Mormon Reading Challenge!
         </p>
-        <h3 class="mb-1 mt-6 text-xl font-bold text-blue-50">Print the reading schedule here!</h3>
-        <button class="bg-blue-900 text-white text-lg font-bold py-4 px-8 border border-cyan-900 rounded shadow">
+        <h3 className="mb-1 mt-6 text-xl font-bold text-blue-50">Print the reading schedule here!</h3>
+        <button className="bg-blue-900 text-white text-lg font-bold py-4 px-8 border border-cyan-900 rounded shadow">
         <a
             href={ReadingChallengeDoc}
             target="_blank"

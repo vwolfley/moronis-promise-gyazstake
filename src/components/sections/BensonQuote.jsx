@@ -24,7 +24,7 @@ function BensonQuote() {
             –President Ezra Taft Benson
           </h2>
         </div>
-        <div class="flex flex-wrap justify-center">
+        <div className="flex flex-wrap justify-center">
           <div className="px-4">
             <img
               src={PresBenson}
