@@ -1,6 +1,6 @@
 import React from "react"
 import ReadingChallenge from "../../images/reading-challenge.webp"
-import ReadingChallengeDoc from "../../docs/moronis-promise-reading-challenge.png"
+import ReadingChallengeDoc from "../../docs/moronis-promise-reading-challenge.pdf"
 
 function ReadingHero() {
   return (

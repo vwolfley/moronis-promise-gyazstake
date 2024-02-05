@@ -3,7 +3,7 @@ import { GiFruitTree } from "react-icons/gi"
 import { LuWaves } from "react-icons/lu"
 import { FaPrayingHands } from "react-icons/fa"
 import { RiFireLine } from "react-icons/ri"
-import ReadingChallengeDoc from "../../docs/moronis-promise-reading-challenge.png"
+import ReadingChallengeDoc from "../../docs/moronis-promise-reading-challenge.pdf"
 
 function ReadingList() {
   return (
@@ -20,10 +20,16 @@ function ReadingList() {
                 </div>
               </div>
               <div className="p-6">
-                <h5 className="mb-4 text-2xl font-bold">February</h5>
+                <h5 className="mb-4 text-3xl font-bold">February</h5>
+                <h4 className="mt-2 mb-1 text-2xl font-semibold text-slate-400">Read</h4>
                 <ul className="text-lg font-medium">
-                  <li>1 Nephi 1-19</li>
+                  <li>1 Nephi 1</li>
+                  <li>1 Nephi 8</li>
+                  <li>1 Nephi 11</li>
+                  <li>2 Nephi 9</li>
                 </ul>
+                <h4 className="mt-2 mb-1 text-2xl font-semibold text-slate-400">Memorize</h4>
+                <p className="text-lg font-medium">2 Nephi 31:20</p>
               </div>
             </div>
           </div>
@@ -36,11 +42,13 @@ function ReadingList() {
                 </div>
               </div>
               <div className="p-6">
-                <h5 className="mb-4 text-2xl font-bold">March</h5>
+                <h5 className="mb-4 text-3xl font-bold">March</h5>
+                <h4 className="mt-2 mb-1 text-2xl font-semibold text-slate-400">Read</h4>
                 <ul className="text-lg font-medium">
-                  <li className="">Mosiah 1-6</li>
-                  <li className="">Mosiah 11-17</li>
+                  <li className="">Mosiah 2-5</li>
                 </ul>
+                <h4 className="mt-2 mb-1 text-2xl font-semibold text-slate-400">Memorize</h4>
+                <p className="text-lg font-medium">Mosiah 3:19</p>
               </div>
             </div>
           </div>
@@ -53,12 +61,16 @@ function ReadingList() {
                 </div>
               </div>
               <div className="p-6">
-                <h5 className="mb-4 text-2xl font-bold">April</h5>
+                <h5 className="mb-4 text-3xl font-bold">April</h5>
+                <h4 className="mt-2 mb-1 text-2xl font-semibold text-slate-400">Read</h4>
                 <ul className="text-lg font-medium">
-                  <li className="">Enos 1</li>
-                  <li className="">Alma 17-27</li>
-                  <li className="">Alma 43-46</li>
+                  <li className="">Alma 5</li>
+                  <li className="">Alma 7</li>
+                  <li className="">Alma 32-34</li>
                 </ul>
+                <h4 className="mt-2 mb-1 text-2xl font-semibold text-slate-400">Memorize</h4>
+                <p className="text-lg font-medium">Helaman 5:9</p>
+                <p className="text-lg font-medium">Helaman 5:12</p>
               </div>
             </div>
           </div>
@@ -70,11 +82,15 @@ function ReadingList() {
                 </div>
               </div>
               <div className="p-6">
-                <h5 className="mb-4 text-2xl font-bold">May</h5>
+                <h5 className="mb-4 text-3xl font-bold">May</h5>
+                <h4 className="mt-2 mb-1 text-2xl font-semibold text-slate-400">Read</h4>
                 <ul className="text-lg font-medium">
-                  <li className="">3 Nephi 8-30</li>
+                  <li className="">3 Nephi 11</li>
+                  <li className="">3 Nephi 15-21</li>
                   <li className="">Moroni 10</li>
                 </ul>
+                <h4 className="mt-2 mb-1 text-2xl font-semibold text-slate-400">Memorize</h4>
+                <p className="text-lg font-medium">Moroni 10:3-5</p>
               </div>
             </div>
           </div>

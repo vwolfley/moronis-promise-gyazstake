@@ -4,6 +4,8 @@ import ReadingInfoSection from "../../sections/ReadingInfoSection"
 import ReadingList from "../../sections/ReadingList"
 import ScottQuote from "../../sections/ScottQuote"
 
+import ScriptureMemorize from "../../sections/ScriptureMemorize"
+
 
 
 function ReadingChallenge() {
@@ -14,6 +16,7 @@ function ReadingChallenge() {
         <ReadingInfoSection />
         <ReadingList />
         <ScottQuote />
+        <ScriptureMemorize />
       </div>
     )
   }
