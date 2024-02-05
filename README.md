@@ -1,5 +1,6 @@
 # moronis-promise-gyazstake
 
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=website)](https://moronispromise.gyazs.org/)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vwolfley/moronis-promise-gyazstake?&logo=github&style=flat-square)](https://github.com/vwolfley/moronis-promise-gyazstake/releases)
 ![GitHub Release Date](https://img.shields.io/github/release-date/vwolfley/moronis-promise-gyazstake?&logo=github&style=flat-square)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/vwolfley/moronis-promise-gyazstake?style=flat-square)
@@ -18,8 +19,8 @@ Moroni's promise is a site giving information about the Moroni's Promise event f
 
 ### :gear: Quickstart Instructions
 
-1. [Clone this repo](https://github.com/AZMAG/map-5310-demographics) - `https://github.com/AZMAG/map-5310-demographics`
-2. `cd` into the `map-5310-demographics` folder.
+1. [Clone this repo](https://github.com/vwolfley/moronis-promise-gyazstake) - `https://github.com/vwolfley/moronis-promise-gyazstake`
+2. `cd` into the `moronis-promise-gyazstake` folder.
 3. Install the dependencies with `npm install`.
 
 ### Available Scripts
@@ -51,7 +52,7 @@ In the project directory, you can run:
 
 - #### Updated | 2024-02-04
 
-- #### Created | 2024-02-04
+- #### Created | 2024-01-29
 
 Releases will be numbered with the following format: **`<major>.<minor>.<patch>`**
 
