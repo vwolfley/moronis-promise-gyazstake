@@ -10,6 +10,7 @@ humanstxt.org/
 
 # THANKS
 	Brother Cory Webster
+	Sister Trista Kruckenberg
 
 # TECHNOLOGY COLOPHON
 
@@ -20,9 +21,9 @@ humanstxt.org/
 
     Site Name: Moroni's Promise
     Site URL: https://moronispromise.gyazs.org/
-    Version: 1.0.2
-	Last updated: 2023-10-5
-    Creation date: 2022-08-05
+    Version: 1.0.3
+	Last updated: 2024-02-04
+    Creation date: 2024-01-29
 	Language: English
 	Doctype: HTML5
 	IDE: VS Code

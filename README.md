@@ -47,11 +47,11 @@ In the project directory, you can run:
 
 ## Version
 
-### version | 1.0.2
+### version | 1.0.3
 
-- #### Updated | 2023-10-5
+- #### Updated | 2024-02-04
 
-- #### Created | 2024-02-02
+- #### Created | 2024-02-04
 
 Releases will be numbered with the following format: **`<major>.<minor>.<patch>`**
 
