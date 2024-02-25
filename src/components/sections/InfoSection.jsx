@@ -1,8 +1,8 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import BofMIcon from "../../images/icon-BofM.png"
-import LocationIcon from "../../images/icon-map.png"
-import FormsIcon from "../../images/icon-forms.png"
+import BofMIcon from "../../images/icon-BofM.webp"
+import LocationIcon from "../../images/icon-map.webp"
+import FormsIcon from "../../images/icon-forms.webp"
 
 function InfoSection() {
   return (

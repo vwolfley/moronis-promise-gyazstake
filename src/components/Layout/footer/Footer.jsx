@@ -1,8 +1,8 @@
 import React from "react"
-import Facebook from "../../../images/social/facebook-logo.png"
-import X from "../../../images/social/x-logo-white.png"
-import Instagram from "../../../images/social/instagram-logo-white.png"
-import YouTube from "../../../images/social/youtube-logo-red.png"
+import Facebook from "../../../images/social/facebook-logo.webp"
+import X from "../../../images/social/x-logo-white.webp"
+import Instagram from "../../../images/social/instagram-logo-white.webp"
+import YouTube from "../../../images/social/youtube-logo-red.webp"
 import DocConfig from "../../../config/DocConfig"
 
 export default function App() {
