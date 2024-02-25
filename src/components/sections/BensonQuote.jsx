@@ -1,5 +1,5 @@
 import React from "react"
-import PresBenson from "../../images/pres-benson.webp"
+import PresBenson from "../../images/prophets/pres-benson.webp"
 
 function BensonQuote() {
   return (

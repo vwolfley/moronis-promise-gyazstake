@@ -1,9 +1,9 @@
 import React from "react"
-import ChristSmiling from "../../images/christ-smiling-square.png"
-import ChristGethsemane from "../../images/christ-garden-square.png"
-import MoroniWriting from "../../images/moroni-writing-square.png"
-import ChristHealing from "../../images/jesus-heals-square.png"
-import LehiTree from "../../images/lehi-tree-of-life-square.jpg"
+import ChristSmiling from "../../images/christ-smiling-square.webp"
+import ChristGethsemane from "../../images/christ-garden-square.webp"
+import MoroniWriting from "../../images/moroni-writing-square.webp"
+import ChristHealing from "../../images/jesus-heals-square.webp"
+import LehiTree from "../../images/lehi-tree-of-life-square.webp"
 
 function ScriptureMemorize() {
   return (

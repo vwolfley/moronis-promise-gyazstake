@@ -1,5 +1,5 @@
 import React from "react"
-import MormonMoroni from "../../images/mormon-moroni.png"
+import MormonMoroni from "../../images/mormon-moroni.webp"
 
 function HomeHero() {
   return (

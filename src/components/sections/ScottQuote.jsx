@@ -1,5 +1,5 @@
 import React from "react"
-import ElderScott from "../../images/elder-scott.jpg"
+import ElderScott from "../../images/prophets/elder-scott.webp"
 
 function ScottQuote() {
   return (
