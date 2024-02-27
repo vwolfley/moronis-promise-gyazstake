@@ -3,10 +3,9 @@ humanstxt.org/
 ==============================================
 
 # TEAM
-    	Name:  Vern Wolfley
-    	Role: GIS Engineer III
+    	Name: Vern Wolfley
+    	Role: Developer
     	Twitter: @vernwolfley
-    	From: Litchfield Park, AZ
 
 # THANKS
 	Brother Cory Webster
