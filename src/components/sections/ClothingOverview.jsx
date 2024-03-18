@@ -5,6 +5,9 @@ import Costume3 from "../../images/clothing/mp-costume3.webp"
 import Costume4 from "../../images/clothing/mp-costume4.webp"
 import Costume5 from "../../images/clothing/mp-costume5.webp"
 import Costume6 from "../../images/clothing/mp-costume6.webp"
+
+import SatchelPic1 from "../../images/clothing/satchel-idea-1.webp"
+import SatchelPic2 from "../../images/clothing/satchel-idea-2.webp"
 import CheckMarkSVG from "../Buttons/checkmark-svg"
 import Satchel from "../../docs/mp-satchel.pdf"
 import Tunic from "../../docs/mp-tunic.pdf"
@@ -121,6 +124,10 @@ function ClothingOverview() {
           <img className="rounded w-auto h-96" alt="" src={Costume3} loading="lazy" />
           <img className="rounded w-auto h-96" alt="" src={Costume5} loading="lazy" />
         </div>
+      </div>
+      <div className="container mx-auto flex py-4 px-8 justify-center gap-2">
+        <img className="rounded w-auto h-64" alt="" src={SatchelPic1} loading="lazy" />
+        <img className="rounded w-auto h-64" alt="" src={SatchelPic2} loading="lazy" />
       </div>
       <div className="container mx-auto flex md:flex-row flex-col pt-4 pb-8 px-8 justify-center gap-4">
         <button className="bg-blue-900 text-white text-lg font-bold py-4 px-8 border border-cyan-900 rounded shadow">
