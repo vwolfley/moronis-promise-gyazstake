@@ -1,5 +1,5 @@
 import React from "react"
-import PresNelson from "../../images/pres-nelson.png"
+import PresNelson from "../../images/prophets/pres-nelson.webp"
 
 function NelsonQuote() {
   return (
