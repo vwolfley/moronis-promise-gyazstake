@@ -57,7 +57,7 @@ function FaqsSection() {
                 <h1 className="text-xl font-semibold capitalize ">What do I wear?</h1>
 
                 <p className="mt-3 text-slate-500 ">
-                  A packing list is on the website and you will be provided two Tunics to wear over
+                  A packing list is on the website and you will need to provided two Tunics to wear over
                   your clothes. More details are on the website under “clothing.”
                 </p>
               </div>

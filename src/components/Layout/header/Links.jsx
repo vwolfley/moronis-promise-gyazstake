@@ -24,24 +24,24 @@ export default function NavLinks() {
         link: "/checklist",
         internal: true,
       },
-      {
-        id: "calendar",
-        name: "Calendar",
-        link: "/calendar",
-        internal: true,
-      },
+      // {
+      //   id: "calendar",
+      //   name: "Calendar",
+      //   link: "/calendar",
+      //   internal: true,
+      // },
       {
         id: "clothing",
         name: "Clothing",
         link: "/clothing",
         internal: true,
       },
-      {
-        id: "important-info",
-        name: "Important Info",
-        link: "/important-info",
-        internal: true,
-      },
+      // {
+      //   id: "important-info",
+      //   name: "Important Info",
+      //   link: "/important-info",
+      //   internal: true,
+      // },
       {
         id: "faqs",
         name: "FAQ's",
