@@ -1,6 +1,7 @@
 import React from "react"
 import NephiWife from "../../images/nephi-wife.webp"
 import PackingList from "../../docs/Moroni-Promise-Packing-List.pdf"
+import CheckBox from "../../images/svg/checkbox-checked.svg"
 
 function PackingListDocs() {
   return (
@@ -36,6 +37,7 @@ function PackingListDocs() {
                     </li>
                     <li>Satchel</li>
                     <li>Bag with remainder of gear.</li>
+                    <li>Bring a Sack Lunch</li>
                   </ul>
                   <p className="mb-4">
                   Your bag could be an appropriate sized hockey bag, camping pack or duffle bag. Try to get all items into one bag if possible. Clearly mark this bag with a tag showing name and ward.
@@ -46,7 +48,7 @@ function PackingListDocs() {
                     <li>
                     3 T-shirts (no sleeveless, no neon colors) if costume requires for modesty
                     </li>
-                    <li>2 pairs of modest shorts to be worn under tunic, especially if outfit is close to knee level, as we do alot of ground sitting.</li>
+                    <li>2 pairs of modest shorts (knee length) to be worn under tunic, especially if outfit is close to knee level, as we do alot of ground sitting.</li>
                     <li>Matching belt for tunic if desired</li>
                     <li>Daily change of underwear and socks</li>
                     <li>Raincoat or poncho</li>
@@ -64,9 +66,12 @@ function PackingListDocs() {
                     <li>Flashlight or HeadLamp</li>
                     <li>Insect spray</li>
                     <li>Feminine hygiene products</li>
+                    <li>Personal medication (inhalers, allergies etc.)</li>
                     <li>Foldable camp chair (put name on this, it will be used at ward firesides)</li>
                   </ul>
                   <p className="mb-4 pb-4">Please label items, especially water bottle.</p>
+
+                  <p className="mb-4 pb-4 font-semibold">No electronics will be allowed on site!  Please leave them at home.</p>
                   <a
                     className="bg-blue-900 text-white text-lg font-bold py-4 px-8 border border-cyan-900 rounded shadow"
                     href={PackingList}

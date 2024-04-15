@@ -20,7 +20,7 @@ humanstxt.org/
 
     Site Name: Moroni's Promise
     Site URL: https://moronispromise.gyazs.org/
-    Version: 1.0.5
+    Version: 1.0.6
 	Last updated: 2024-04-14
     Creation date: 2024-01-29
 	Language: English

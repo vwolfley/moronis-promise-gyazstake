@@ -1,5 +1,5 @@
 let docConfig = {
-  version: "v1.0.5",
+  version: "v1.0.6",
   date: "2024-04-14",
   created: "2024-01-29",
   copyright: "2024",
