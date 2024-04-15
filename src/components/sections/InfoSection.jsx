@@ -59,7 +59,7 @@ function InfoSection() {
               Download all the latest versions of the forms and information to stay on track.
             </p>
             <div className="mt-4">
-            <Link to="/important-info" relative="path" className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600">
+            <Link to="/Checklist" relative="path" className="inline-flex items-center mt-4 font-semibold text-blue-800 lg:mb-0 hover:text-neutral-600">
               Read More »
               </Link>
             </div>

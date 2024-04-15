@@ -16,7 +16,7 @@ export default function Header() {
       <section className="flex items-center p-6 flex-1 justify-between">
         <div className="flex flex-row items-center gap-1 flex-shrink-0">
           <img className="h-auto w-8" src={MoroniLogo} alt="Moroni Logo" />
-          <h1 className="font-semibold text-3xl lg:text-4xl tracking-tight">Moroni's Promise</h1>
+          <h1 className="font-semibold text-2xl md:text-3xl lg:text-4xl tracking-tight">Moroni's Promise</h1>
         </div>
         <div className="flex">
           <button
@@ -50,7 +50,7 @@ export default function Header() {
         id="mobile-menu"
         className={`${
           mobileMenuOpen ? "animate-open-menu" : "hidden"
-        } fixed w-48 top-0 mt-16 right-4 flex-col bg-blue-900 text-lg text-blue-50 md:hidden`}>
+        } fixed w-48 top-0 mt-16 right-0 flex-col bg-blue-900 text-lg text-blue-50 md:hidden`}>
         <nav className="flex flex-col px-4 py-6" aria-label="mobile-menu">
           {links.map((link, index) => {
             return (

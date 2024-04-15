@@ -4,7 +4,7 @@ import MedicalRelease from "../../docs/moronis-promise-medical-forms-church-rele
 
 function MedicalDocuments() {
   return (
-    <section className="text-blue-950 body-font border-t bg-blue-50">
+    <section className="text-blue-950 body-font bg-blue-50">
       <div className="container px-5 py-12 mx-auto">
         <section className="text-center md:text-left">
           <div className="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] ">

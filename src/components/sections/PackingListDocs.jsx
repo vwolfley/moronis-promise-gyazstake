@@ -5,19 +5,18 @@ import CheckBox from "../../images/svg/checkbox-checked.svg"
 
 function PackingListDocs() {
   return (
-    <section className="text-blue-950 body-font border-t bg-blue-50">
+    <section className="text-blue-950 body-font bg-blue-50">
       <div className="container px-5 py-12 mx-auto">
-        <section className="mb-4">
-          <div className="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]">
-            <div className="flex flex-wrap items-center">
-              <div className="hidden shrink-0 grow-0 basis-auto lg:flex lg:w-6/12 xl:w-4/12">
+        <section className="mb-4 flex">
+          <div className="rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]">
+              <div className="flex justify-center">
                 <img
                   src={NephiWife}
                   alt="Nephis Wife"
-                  className="w-full rounded-t-lg lg:rounded-tr-none lg:rounded-bl-lg"
+                  className="w-full rounded-t-lg lg:rounded-tr-none lg:rounded-bl-lg lg:w-8/12 xl:w-9/12"
                 />
               </div>
-              <div className="w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12">
+              <div className="w-full shrink-0 grow-0 basis-auto">
                 <div className="px-6 py-12 md:px-12">
                   <h2 className="mb-4 text-2xl font-bold">Packing List for Moroni’s Promise</h2>
 
@@ -81,7 +80,6 @@ function PackingListDocs() {
                   </a>
                 </div>
               </div>
-            </div>
           </div>
         </section>
       </div>
