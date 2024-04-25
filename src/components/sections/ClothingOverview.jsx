@@ -41,8 +41,8 @@ function ClothingOverview() {
             <li className="flex text-xl">
               <CheckMarkSVG />
               <p>
-                <span className="font-bold">Shoes: </span>Two pairs of comfortable closed toe shoes.
-                No sandals or flip-flops.
+                <span className="font-bold">Shoes: </span>Two pairs of comfortable closed toe shoes or sturdy sandals.
+                No flip-flops.
               </p>
             </li>
             <li className="flex text-xl">
@@ -62,8 +62,7 @@ function ClothingOverview() {
             </li>
             <li className="flex text-xl">
               <CheckMarkSVG />
-              <span className="font-bold">Satchel: </span>Satchels should be approximately 10 x 12
-              inches with an over-the-shoulder strap.
+              <span className="font-bold">Satchel: </span>A satchel will be provide but if you want to make your own, satchels should be approximately 10 x 12 inches with an over-the-shoulder strap.
             </li>
             <li className="flex text-xl">
               <CheckMarkSVG />

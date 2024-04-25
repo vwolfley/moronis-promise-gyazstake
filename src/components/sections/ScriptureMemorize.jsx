@@ -41,7 +41,7 @@ function ScriptureMemorize() {
           <img src={ChristGethsemane} alt="" className="w-1/3 h-auto" />
           <div className="flex flex-col justify-center flex-1 px-28 py-6">
             <span className="text-2xl uppercase">April</span>
-            <h3 className="text-5xl font-bold">Helaman 5: 9</h3>
+            <h3 className="text-5xl font-bold">Helaman 5:9</h3>
             <p className="my-6 text-xl">
               O remember, remember, my sons, the words which king Benjamin spake unto his people;
               yea, remember that there is no other way nor means whereby man can be saved, only

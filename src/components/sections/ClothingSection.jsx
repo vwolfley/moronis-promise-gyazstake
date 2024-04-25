@@ -19,7 +19,7 @@ function WhatSection() {
             All youth and leaders participating in the Moroni’s Promise Youth Event will be required
             to dress in period clothing. This includes youth, tribe leaders, camp directors,
             bishops, and any others who visit the camp. Each person attending the event will need
-            two outfits and a satchel. Clothing should be simple and inexpensive.
+            two outfits and a satchel (this will be provide to you). Clothing should be simple and inexpensive.
           </p>
 
           <h2 className="mb-2 text-2xl font-semibold">Keep them simple and Fun!</h2>
