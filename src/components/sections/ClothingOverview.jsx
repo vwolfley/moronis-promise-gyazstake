@@ -68,9 +68,7 @@ function ClothingOverview() {
               <CheckMarkSVG />
               <p>
                 <span className="font-bold">Head gear: </span>Head gear including hats and scarves
-                are allowed and strongly encouraged to protect you from the sun. You may wear a
-                headband (around the forehead and tied in the back) or a “shepherd’s” head covering
-                to protect against the sun. Ball caps, toques, knit caps,etc WILL NOT be allowed.
+                are allowed and strongly encouraged to protect you from the sun. Try to keep hats simple and not draw attention or distract from the period clothing.
               </p>
             </li>
             <li className="flex text-xl">
