@@ -32,7 +32,7 @@ function PackingListDocs() {
                     </li>
                     <li>
                       Wear Headgear that matches Quest theme. See Costume. It will be most likely
-                      very hot and this will help keep you cool. *No ball caps, toques, etc.
+                      very hot and this will help keep you cool.
                     </li>
                     <li>Satchel - Will be provided</li>
                     <li>Bag with remainder of gear.</li>
