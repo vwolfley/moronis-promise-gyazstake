@@ -36,7 +36,7 @@ export default function Header() {
                       to={link.link}
                       target={link.internal ? "_self" : "_blank"}
                       rel="noreferrer"
-                      className="flex rounded p-0 py-2 hover:text-yellow-400">
+                      className="flex rounded p-0 py-2 hover:text-yellow-400 cursor-pointer">
                       {link.name}
                     </NavLink>
                   </li>

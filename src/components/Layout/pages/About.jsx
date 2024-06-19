@@ -6,7 +6,7 @@ import InfoSection from "../../sections/InfoSection"
 import MoroniQuote from "../../sections/MoroniQuote"
 import Timer from "../../sections/TimerSection"
 
-function Home() {
+function About() {
   return (
     <div tag="main-body" className="flex grow flex-col">
       <HomeHero />
@@ -20,4 +20,4 @@ function Home() {
   )
 }
 
-export default Home
+export default About

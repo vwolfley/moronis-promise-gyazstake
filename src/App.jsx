@@ -8,6 +8,7 @@ import ReadingChallenge from "./components/Layout/pages/ReadingChallenge"
 import Clothing from "./components/Layout/pages/Clothing"
 import FAQ from "./components/Layout/pages/Faqs"
 import Footer from "./components/Layout/footer/Footer"
+import EventPhotos from "./components/Layout/pages/EventPhotos"
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route exact path="/checklist" element={<Checklist />} />
           <Route exact path="/clothing" element={<Clothing />} />
           <Route exact path="/faqs" element={<FAQ />} />
+          <Route exact path="/event-photos" element={<EventPhotos />} />
         </Routes>
         <Footer />
       </div>

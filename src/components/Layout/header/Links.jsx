@@ -48,6 +48,12 @@ export default function NavLinks() {
         link: "/faqs",
         internal: true,
       },
+      {
+        id: "event-photos",
+        name: "Event Photos",
+        link: "/event-photos",
+        internal: true,
+      },
       
     ]
     return navLinks

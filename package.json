@@ -30,6 +30,7 @@
     "react-dom": "^18.2.0",
     "react-ga4": "^2.1.0",
     "react-icons": "^5.0.1",
+    "react-photo-album": "^2.4.1",
     "react-router-dom": "^6.21.3"
   },
   "devDependencies": {
